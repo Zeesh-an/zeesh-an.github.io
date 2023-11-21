@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='#'>School of Electrical Engineering and Computer Science(SEECS), NUST</a>. Islamabad, Pakistan. 
 profile:
   align: right
   image: prof_pic.jpg
